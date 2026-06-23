@@ -22,3 +22,32 @@ width : 100% ;
     background-color: rgb(162, 188, 223);
      border-radius: 50%;
 }
+#page1{
+    height: 100%;
+    width: 100%;
+    background-color: lightblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#page2{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(102, 191, 220);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#page3{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(40, 176, 221);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#box{
+    height: 300px;
+    width: 300px;
+    background-color: red;
+}
